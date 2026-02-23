@@ -1,0 +1,13 @@
+[project]
+name = "input-space-mode-connectivity"
+version = "0.1.0"
+description = "Companion code for 'Input Space Mode Connectivity in Deep Neural Networks' (ICLR 2025)"
+requires-python = ">=3.9"
+dependencies = [
+    "torch>=2.0",
+    "torchvision>=0.15",
+    "numpy>=1.24",
+    "matplotlib>=3.7",
+    "Pillow>=9.0",
+    "pandas>=1.5",
+]
